@@ -1,0 +1,34 @@
+.navbar{
+    padding: 10px;
+    background-color: #e5e1e1;
+}
+.nav-listleft{
+    display: flex;
+    margin: 4px;
+    justify-content: left;
+    padding: 5px;
+   
+
+}
+.nav-listright{
+    
+        display: flex;
+        margin: 4px;
+        justify-content: right;
+        padding: 5px;
+}
+.nav-listcenter{
+    
+        display: flex;
+        margin: 4px;
+        justify-content: center;
+        padding: 5px;
+}
+.nav-list li{
+    text-decoration: none;
+    color: azure;
+
+}
+.nav-list li a:hover{
+    color: red;
+}
